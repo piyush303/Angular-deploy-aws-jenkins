@@ -20,7 +20,7 @@ pipeline {
 // Build - execute shell
 
 
-#!/bin/bash
+// #!/bin/bash
 // export PATH=$PATH:/usr/local/bin
 // echo "libarary path"
 // echo $PATH
